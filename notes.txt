@@ -1,0 +1,3 @@
+error when use .env for database
+
+problem if update user with small data from now 
